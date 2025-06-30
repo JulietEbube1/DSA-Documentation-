@@ -20,3 +20,11 @@ This data analysis project seeks to explain what have been taught through my cla
 - SQL server (for querying and analysis)
 - power BI (for creating a report)
 - Ms Power Point (For presentation)
+
+### Data cleaning and Preparation
+
+In the initial phase of the data cleaning and preparation, we perform the following actions;
+
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
